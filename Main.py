@@ -3,5 +3,5 @@ st.set_page_config(
     page_title='Welcome',
     page_icon='👌'
 )
-st.write("# Welcome to streamlit! 🙌")
+st.write("# Welcome to streamlit  application ! 🙌")
 st.sidebar.success("select Demo above")
