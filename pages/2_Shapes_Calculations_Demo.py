@@ -26,7 +26,7 @@ if compute_btn:
         x=[i for i in range(100)]
         y = [j for j in range(100, 1000, 10)]
         fig = plt.figure(figsize=(15,10))
-        plt.plt(x, y)
+        plt.plot(x, y)
         plt.title('figure for testing')
         plt.xlabel('axis x')
         plt.ylabel('axis y')
