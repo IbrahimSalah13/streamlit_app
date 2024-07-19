@@ -1,5 +1,6 @@
 import streamlit as st
 import time
+import matplotlib.pyplot as plt
 st.header("Shapes Calculations")
 
 st.sidebar.title("Configurations")
